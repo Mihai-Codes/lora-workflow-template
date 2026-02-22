@@ -1,3 +1,16 @@
+---
+language:
+  - en
+tags:
+  - sdxl
+  - lora
+  - kaggle
+  - workflow
+library_name: diffusers
+pipeline_tag: text-to-image
+license: mit
+---
+
 # mihai-lora-v2 (workflow-only)
 
 This repository contains the reproducible training workflow used to run a personal SDXL LoRA pipeline on free Kaggle GPU, including checkpoint continuation, checkpoint evaluation, and LinkedIn-style gallery generation.
