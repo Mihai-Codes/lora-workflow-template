@@ -1,0 +1,12 @@
+# Fixed validation prompts (use for all runs)
+
+1. professional LinkedIn headshot of mihai, navy blazer, soft studio key light, neutral gray background, photorealistic
+2. corporate profile photo of mihai, white shirt and dark jacket, modern office blur background, natural skin texture
+3. executive headshot of mihai, slight smile, 85mm portrait look, clean background, realistic lighting
+4. business portrait of mihai, charcoal suit, daylight office window light, high realism, no stylization
+5. professional headshot of mihai, relaxed confident expression, simple studio backdrop, true-to-life skin detail
+6. LinkedIn profile portrait of mihai, upper torso framing, soft rim light, minimal background distractions
+
+# Negative prompt
+
+uncanny face, plastic skin, asymmetrical eyes, distorted teeth, warped ears, extra fingers, text, watermark, cartoon, painting

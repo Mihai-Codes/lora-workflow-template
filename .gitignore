@@ -1,0 +1,20 @@
+# Local env
+.venv/
+.DS_Store
+
+# Personal/source data
+00_raw/
+01_curated/
+02_captions/
+04_checkpoints/
+
+# Generated artifacts
+06_exports/
+07_kaggle/_kaggle_output_*/
+07_kaggle/checkpoints_dataset/
+07_kaggle/dataset/
+08_kaggle_eval/_kaggle_output_*/
+08_kaggle_eval/_pulled/
+
+# Temporary publish bundle output
+publish_bundle/

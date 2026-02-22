@@ -1,0 +1,15 @@
+{
+  "id": "mihaichindris/mihai-lora-v2-eval",
+  "title": "Mihai LoRA v2 Eval",
+  "code_file": "evaluate_checkpoints.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "mihaichindris/mihai-lora-v2-checkpoints"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

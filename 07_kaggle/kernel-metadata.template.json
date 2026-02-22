@@ -1,0 +1,15 @@
+{
+  "id": "__KAGGLE_USERNAME__/mihai-flux-lora-v2",
+  "title": "Mihai FLUX LoRA v2",
+  "code_file": "train_flux_lora.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "__KAGGLE_USERNAME__/mihai-lora-v2-data"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
